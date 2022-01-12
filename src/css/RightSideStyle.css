@@ -1,0 +1,139 @@
+html {
+    scroll-behavior: smooth;
+}
+
+/* *{
+    outline: 5px solid red;
+} */
+
+
+.RightSide {
+    width: 75%;
+    display: inline-block;
+    background-color: black;
+    height: 100vh;
+    
+    padding:0px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-right: 0px;
+    margin: 0px;
+    position:relative;
+    left:25%;
+    
+}
+
+@media  (max-width: 800px){
+    .RightSide{
+        
+        position: static;
+        width: 100%;
+        left:0%;
+        right:0%;
+        clear:both;
+    };
+    
+}
+
+.profile-right-replace{
+    opacity: 0;
+}
+
+@media  (max-width: 800px){
+    .profile-right-replace{
+        opacity: 1;
+    }
+}
+
+@media  (max-width: 800px){
+    .profile-titles{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-weight: bold;
+        font-size: 18px;
+    }
+}
+
+
+
+
+.black {
+    
+    background:url("sit.jpg");
+    background-size: cover;
+    color:white;
+    height:100%;
+    padding-left:0px;
+    padding-right: 0px;
+    width: 100%;
+}
+
+/* linear-gradient(to right,#3300B1,#589dbd) */
+
+.overlay-CircleProfilePic{
+    position:relative;
+    top:-550px;
+    left:450px;
+    margin-top: 20px;
+    width:450px;
+    height:450px;
+    border-radius: 25%;
+    box-shadow: black 5px 2px;
+    transition: all 0.3s;
+    border: 7.5px solid rgb(114, 102, 221);
+    margin-bottom: -450px;
+}
+
+.ProfileBackground {
+    position: relative;
+    width:100%;
+    height:100%;
+    z-index: 1;
+}
+
+.Name {
+    position: relative;
+    color:white;
+    top:30px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.float-text{
+    position:relative;
+    top:150px;
+    left:45px;
+    width: 80%;
+}
+
+.big-title{
+    display: block;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    text-decoration: underline lightblue 5px;
+    color:rgb(63, 55, 107);
+}
+.main-block{
+    display: block;
+    padding-bottom: 30px;
+}
+.SkillsContent{
+    background-color: rgb(244, 248, 248);
+}
+
+.ProjectContent{
+    background-color: rgb(244, 248, 248);
+    height: max-content;
+}
+
+.ResumeContent{
+    height: auto;
+    background-color: rgb(244, 248, 248);
+}
+
+.content-About{
+    padding-left:20px;
+}
+

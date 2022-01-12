@@ -1,0 +1,7 @@
+.small-icon{
+    margin:5px;
+}
+
+.small-icon:focus{
+    outline: none;
+}

@@ -1,0 +1,17 @@
+.change-text{
+    width: 80%;
+    color:rgb(225, 221, 241);
+    height:50px;
+    display:inline-block;
+    position:relative;
+    
+    font-size: 35px;
+    text-align: left;
+
+}
+
+.only-change{
+    text-decoration: underline pink; 
+    display:inline-block;
+}
+

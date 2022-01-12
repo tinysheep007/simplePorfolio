@@ -1,0 +1,43 @@
+.home-tag{
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+
+.home-tag:hover, .home-tag:focus, .home-tag:active {
+    color: rgb(118, 192, 235);
+}
+
+.home-tag:active{
+    color: rgb(118, 192, 235);
+}
+
+.active{
+    color: rgb(81, 173, 226);
+}
+
+.link-block{
+    border-bottom: 3px solid white;
+    border-left: 0;
+    border-right: 0;
+    margin:10px;
+    text-align: center;
+    padding: 10px;
+    transition: ease-in-out 0.335s;
+}
+
+.first-home-tag{
+    margin-top: 20px;
+}
+
+.link-icon{
+    float:left;
+    margin-left:10px;
+}
+
+.bot-wel{
+    background: linear-gradient(to right,#3300B1,#589dbd);
+    color:white;
+    font-size: 50px;
+}
+

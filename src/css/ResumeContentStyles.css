@@ -1,0 +1,77 @@
+.resume-component{
+    margin-left:20px;
+    width:40%;
+    display:inline-block;
+    float:left;
+}
+
+@media (max-width: 800px) {
+    .resume-component{
+        display: block;
+        width:80%;
+        height:auto;
+        
+    }
+}
+
+.resume-head{
+    margin-left: 20px;
+}
+
+.resume-big-title{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.resume-sec-til{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.resume-time{
+    padding:7.5px;
+    background:rgb(179, 218, 241);
+    display: inline;
+}
+
+.resume-sub{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+.resume-club{
+    margin-top: 10px;
+}
+
+.resume-wendys{
+    margin-top: 10px;
+}
+
+.slider-education{
+    display:inline-block;
+    float:left;
+    width:35px;
+    height:220px;
+}
+
+.slider-club{
+    display:inline-block;
+    float:left;
+    width:35px;
+    height:250px;
+}
+
+.slider-experience{
+    display:inline-block;
+    float:left;
+    width:55px;
+    height:535px;
+}
+
+@media (max-width: 1200px){
+    .slider-experience,.slider-club,.slider-education {
+        display: none;
+    }
+}

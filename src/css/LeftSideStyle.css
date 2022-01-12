@@ -1,0 +1,48 @@
+.LeftSide {
+    text-align: center;
+    background:black;
+    display: inline-block;
+    width:25%;
+    height:100vh;
+    overflow: auto;
+    position: fixed;
+    top:0px;
+}
+
+@media  (max-width: 800px) {
+    .LeftSide {
+      display: none;
+    }
+}
+
+  
+.CircleProfilePic {
+    margin-top: 20px;
+    width:150px;
+    height:150px;
+    border-radius: 100%;
+    box-shadow: black 5px 2px;
+    transition: all 0.3s;
+    border: 7.5px solid grey;
+    
+}
+@media only screen and (max-width: 800px) {
+    
+}
+
+.GeneralLinks{
+    align-items: center;
+    justify-content: baseline;
+    
+}
+
+.small-icon{
+    background-color:grey;
+    border-radius: 25%;
+    border: 1px solid black;
+    transition: all 0.5s;
+}
+
+.small-icon:hover{
+    background-color: rgb(118, 192, 235);
+}

@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/simplePorfolio/static/css/main.5bf8ef9b.chunk.css",
+    "main.js": "/simplePorfolio/static/js/main.387ec08c.chunk.js",
+    "main.js.map": "/simplePorfolio/static/js/main.387ec08c.chunk.js.map",
+    "runtime-main.js": "/simplePorfolio/static/js/runtime-main.e8637109.js",
+    "runtime-main.js.map": "/simplePorfolio/static/js/runtime-main.e8637109.js.map",
+    "static/css/2.818011ed.chunk.css": "/simplePorfolio/static/css/2.818011ed.chunk.css",
+    "static/js/2.026c0c02.chunk.js": "/simplePorfolio/static/js/2.026c0c02.chunk.js",
+    "static/js/2.026c0c02.chunk.js.map": "/simplePorfolio/static/js/2.026c0c02.chunk.js.map",
+    "static/js/3.41a9b36c.chunk.js": "/simplePorfolio/static/js/3.41a9b36c.chunk.js",
+    "static/js/3.41a9b36c.chunk.js.map": "/simplePorfolio/static/js/3.41a9b36c.chunk.js.map",
+    "index.html": "/simplePorfolio/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/simplePorfolio/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.5bf8ef9b.chunk.css.map": "/simplePorfolio/static/css/main.5bf8ef9b.chunk.css.map",
+    "static/js/2.026c0c02.chunk.js.LICENSE.txt": "/simplePorfolio/static/js/2.026c0c02.chunk.js.LICENSE.txt",
+    "static/media/adien.2087c34e.JPG": "/simplePorfolio/static/media/adien.2087c34e.JPG",
+    "static/media/ai.050d055f.JPG": "/simplePorfolio/static/media/ai.050d055f.JPG",
+    "static/media/color.6895eb3c.JPG": "/simplePorfolio/static/media/color.6895eb3c.JPG",
+    "static/media/head-profile.be8de421.png": "/simplePorfolio/static/media/head-profile.be8de421.png",
+    "static/media/left-head.6ea16c04.jpg": "/simplePorfolio/static/media/left-head.6ea16c04.jpg",
+    "static/media/RightSideStyle.css": "/simplePorfolio/static/media/sit.d0e25f91.jpg",
+    "static/media/stock.1c99761b.JPG": "/simplePorfolio/static/media/stock.1c99761b.JPG",
+    "static/media/switch.07c547c5.png": "/simplePorfolio/static/media/switch.07c547c5.png",
+    "static/media/weather.d4e35e19.JPG": "/simplePorfolio/static/media/weather.d4e35e19.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8637109.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.026c0c02.chunk.js",
+    "static/css/main.5bf8ef9b.chunk.css",
+    "static/js/main.387ec08c.chunk.js"
+  ]
+}
